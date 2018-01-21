@@ -1,4 +1,5 @@
 # What is a Program?
+
 ### Objectives:
 * Describe a program.
 * Distinguish between interpreted and compiled programs.
